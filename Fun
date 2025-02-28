@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fraża Official Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #ffffff;
+      color: #333;
+    }
+    h1 {
+      color: #d4af37;
+    }
+    nav {
+      margin: 20px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #d4af37;
+      font-weight: bold;
+    }
+    .section {
+      padding: 20px;
+      border-bottom: 2px solid #d4af37;
+    }
+    footer {
+      margin-top: 30px;
+      background: #d4af37;
+      color: #fff;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to the Official Website of Fraża</h1>
+  <nav>
+    <a href="#history">History</a>
+    <a href="#dictionary">Żabanama Dictionary</a>
+    <a href="#airlines">Fraża Airlines</a>
+    <a href="#bank">Fraża Bank</a>
+    <a href="#revolution">Revolution Against Allice</a>
+  </nav>
+
+  <div class="section" id="history">
+    <h2>History of Fraża</h2>
+    <p>2023: Funding of Molyland</p>
+    <p>2024: Creation of La Bas Froza Żabanama Language</p>
+    <p>2024: December 30, Molyland was changed to Fraża</p>
+    <p>2025: War with Allice</p>
+  </div>
+
+  <div class="section" id="dictionary">
+    <h2>La Bas Froza Żabanama Dictionary</h2>
+    <p>Ja - I</p>
+    <p>Lef - Love</p>
+    <p>Ty - You</p>
+    <p>Zesa - Fish</p>
+    <p>Raża - Thank You</p>
+    <p>Czenra - Hello</p>
+    <p>And 100 more words...</p>
+  </div>
+
+  <div class="section" id="airlines">
+    <h2>Fraża Airlines</h2>
+    <p>Destinations: Chicago International, New York International</p>
+    <p>Fleet: Embraer E-170</p>
+  </div>
+
+  <div class="section" id="bank">
+    <h2>Fraża Bank</h2>
+    <p>Currency: Zesari</p>
+    <p>1 Zesari = $0.17</p>
+  </div>
+
+  <div class="section" id="revolution">
+    <h2>Revolution Against Allice</h2>
+    <p>Official Protest: Monday</p>
+    <p>Slogan: Nau Allice</p>
+  </div>
+
+  <footer>
+    © 2025 Fraża Official Website
+  </footer>
+</body>
+</html>
